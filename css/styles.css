@@ -1,0 +1,43 @@
+body {
+  background-color: #F9F3DF;
+}
+  h1{
+    color:#A45D5D;
+    font-size: 34px;
+  }
+
+  h3{
+    color: #A45D5D;
+  }
+
+  a{
+    color: #A45D5D;
+  }
+
+
+
+  /***************************************Tag Selectors***************************************/
+/*
+  img {
+    background-color: #C45A1D;
+    font-size: 80px
+  }
+
+   hr{
+     background-color: white;
+     border-style: none;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+     width: 2%;
+   }
+
+/***************************************Class Selectors***************************************/
+  .minecraft {
+    background-color: #C45A1D;
+  }
+
+  .bbaa {
+    background-color: #A45D5D;
+  }
+  /***************************************ID Selectors***************************************/
